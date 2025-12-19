@@ -1,4 +1,4 @@
-# Survival Analysis of CDKN1A in TCGA-READ
+# Survival Analysis Plotting
 ### This repository provides an R-based pipeline that integrates TCGA-READ RNA-seq and clinical data to assess the prognostic significance of CDKN1A expression using Kaplan–Meier overall survival analysis.
 ## Overview
 Survival analysis is a key approach in cancer genomics to understand whether gene expression levels are associated with patient outcomes. In this pipeline:
