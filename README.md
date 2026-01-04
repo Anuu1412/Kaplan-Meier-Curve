@@ -22,8 +22,9 @@ Clinical data are retrieved directly from the GDC and include:
 - Days to last follow-up
 
 ### Requirements
-- R Packages
-- Ensure the following R packages are installed:
+R Packages
+
+Ensure the following R packages are installed:
 - TCGAbiolinks
 - SummarizedExperiment
 - DESeq2
